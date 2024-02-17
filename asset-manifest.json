@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactjs-slider.github.io/static/css/main.24fa9361.css",
+    "main.js": "/reactjs-slider.github.io/static/js/main.60c91b9f.js",
+    "static/js/592.9ace6106.chunk.js": "/reactjs-slider.github.io/static/js/592.9ace6106.chunk.js",
+    "static/media/Map2.png": "/reactjs-slider.github.io/static/media/Map2.620bc282d68e4157ad3e.png",
+    "static/media/WaterResourcesMap.png": "/reactjs-slider.github.io/static/media/WaterResourcesMap.3f545223ff805791aa2c.png",
+    "static/media/PakRivers.png": "/reactjs-slider.github.io/static/media/PakRivers.bac4a7b11bc600a27175.png",
+    "static/media/DrSnowMap.png": "/reactjs-slider.github.io/static/media/DrSnowMap.13283539b4fe9383fecf.png",
+    "static/media/RainfallStationsCalifornia.png": "/reactjs-slider.github.io/static/media/RainfallStationsCalifornia.acffd2bab7619d4d1662.png",
+    "static/media/RingroadProject.jpg": "/reactjs-slider.github.io/static/media/RingroadProject.7eeba8289137d30e340d.jpg",
+    "index.html": "/reactjs-slider.github.io/index.html",
+    "main.24fa9361.css.map": "/reactjs-slider.github.io/static/css/main.24fa9361.css.map",
+    "main.60c91b9f.js.map": "/reactjs-slider.github.io/static/js/main.60c91b9f.js.map",
+    "592.9ace6106.chunk.js.map": "/reactjs-slider.github.io/static/js/592.9ace6106.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24fa9361.css",
+    "static/js/main.60c91b9f.js"
+  ]
+}
